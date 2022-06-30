@@ -1,2 +1,2 @@
 # MCTS
-some game using MCTS
+some games using MCTS
